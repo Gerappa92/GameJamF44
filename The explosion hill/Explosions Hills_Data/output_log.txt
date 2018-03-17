@@ -1,0 +1,94 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 540M (ID=0xdf4)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.115 seconds
+Platform assembly: F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Unity3D\GameJamF44\The explosion hill\Explosions Hills_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+The tree Truck1 couldn't be instanced because the prefab contains no valid mesh renderer.
+ 
+(Filename:  Line: 160)
+
+The tree Olive_lowp3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Olive_lowp3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Olive_lowp3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Olive_lowp3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Olive_lowp3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree free_car must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 1.785315 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 83b8 -> priority: 1 
+eloelo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.334174 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 849.
+Total: 1.693434 ms (FindLiveObjects: 0.136354 ms CreateObjectMapping: 0.046428 ms MarkObjects: 0.991135 ms  DeleteObjects: 0.517071 ms)
+
+eloelo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.856602 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 849.
+Total: 1.588847 ms (FindLiveObjects: 0.083083 ms CreateObjectMapping: 0.062556 ms MarkObjects: 0.962301 ms  DeleteObjects: 0.479928 ms)
+
+eloelo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.789158 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 849.
+Total: 1.979828 ms (FindLiveObjects: 0.139286 ms CreateObjectMapping: 0.068421 ms MarkObjects: 1.194445 ms  DeleteObjects: 0.575719 ms)
+
+eloelo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
